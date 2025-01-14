@@ -1,7 +1,7 @@
 from bisect import insort as t, bisect_left as b
 I = input
 z = int
-p = [list(map(z, I().split())) for _ in' '*z(I())]
+p = [[*map(z, I().split())] for _ in' '*z(I())]
 p.sort(lambda x: x[0])
 d = 9**20
 s = []
