@@ -1,10 +1,10 @@
 # CSES Code Golf Solutions
 
-Accepted [code golf](https://en.wikipedia.org/wiki/Code_golf) solutions to the [CSES Problem Set](https://cses.fi/problemset/) written in Python 3. Code golf solutions have file names ending in `Golf` while my standard solutions do not. After solving a CSES problem, you can click `QUEUE` and add `?lang=9&status=2&user=&by=2&order=0` to the URL to show the Python 3 shortest code leaderboard.
+Accepted [code golf](https://en.wikipedia.org/wiki/Code_golf) solutions to the [CSES Problem Set](https://cses.fi/problemset/) written in Python 3. Code golf solutions have file names ending in `Golf` while my standard solutions do not. After solving a CSES problem, you can click `QUEUE` and concatenate `?lang=9&status=2&user=&by=2&order=0` to the URL to show the Python 3 shortest code leaderboard.
 
 For problems labeled with a 🐍, I am #1 on the shortest code leaderboard for Python 3 after disregarding users who execute whitespace language.
 
-For problems labeled with a ⭐, I am #1 on the shortest code leaderboard for ALL programming languages.
+For problems labeled with a ⭐, I am #1 on the shortest code leaderboard out of ALL programming languages.
 
 For problems labeled with a 💥, I have the only accepted solution in Python 3 or I was the first accepted solution in Python 3.
 
