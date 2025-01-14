@@ -1,9 +1,7 @@
 from bisect import insort as t, bisect_left as b
 I = input
-R = range
 z = int
-n = z(I())
-p = [list(map(z, I().split())) for _ in R(n)]
+p = [list(map(z, I().split())) for _ in' '*z(I())]
 p.sort(lambda x: x[0])
 d = 9**20
 s = []
@@ -13,7 +11,7 @@ for x, y in p:
         l, m = p[r]
         s.pop(b(s, (m, l)))
         r += 1
-    for i in R(b(s, (y - z(d ** .5), -d)), len(s)):
+    for i in range(b(s, (y - z(d ** .5), -d)), len(s)):
         k, j = s[i]
         w = (k - y) ** 2
         if w > d:
