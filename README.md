@@ -14,7 +14,7 @@ For problems labeled with a 🌊, I have also golfed the problem in C++.
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| [Introductory Problems](#introductory-problems) |      5/19     |
+| [Introductory Problems](#introductory-problems) |      6/19     |
 | [Sorting and Searching](#sorting-and-searching) |      0/35     |
 | [Dynamic Programming](#dynamic-programming)   |      0/19     |
 | [Graph Algorithms](#graph-algorithms)      |      0/36     |
@@ -25,7 +25,7 @@ For problems labeled with a 🌊, I have also golfed the problem in C++.
 | [Geometry](#geometry)              |      7/7      |
 | [Advanced Techniques](#advanced-techniques)   |      0/24     |
 | [Additional Problems](#additional-problems)   |      0/77     |
-| **Total**             |   **12/300**  |
+| **Total**             |   **13/300**  |
 
 ## Introductory Problems
 
@@ -34,7 +34,7 @@ For problems labeled with a 🌊, I have also golfed the problem in C++.
 1. [Repetitions](/IntroductoryProblems/RepetitionsGolf.py) 🐍
 1. [Increasing Array](/IntroductoryProblems/IncreasingArrayGolf.py) 🐍
 1. [Permutations](/IntroductoryProblems/PermutationsGolf.py) 🐍
-1. Number Spiral
+1. [Number Spiral](/IntroductoryProblems/NumberSpiralGolf.py) 🐍
 1. Two Knights
 1. Two Sets
 1. Bit Strings
