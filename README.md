@@ -14,9 +14,9 @@ For problems labeled with a 🌊, I have also golfed the problem in C++.
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| [Introductory Problems](#introductory-problems) |      6/19     |
+| [Introductory Problems](#introductory-problems) |      7/19     |
 | [Sorting and Searching](#sorting-and-searching) |      0/35     |
-| [Dynamic Programming](#dynamic-programming)   |      0/19     |
+| [Dynamic Programming](#dynamic-programming)   |      1/19     |
 | [Graph Algorithms](#graph-algorithms)      |      0/36     |
 | [Range Queries](#range-queries)         |      0/19     |
 | [Tree Algorithms](#tree-algorithms)       |      0/16     |
@@ -25,7 +25,7 @@ For problems labeled with a 🌊, I have also golfed the problem in C++.
 | [Geometry](#geometry)              |      7/7      |
 | [Advanced Techniques](#advanced-techniques)   |      0/24     |
 | [Additional Problems](#additional-problems)   |      0/77     |
-| **Total**             |   **13/300**  |
+| **Total**             |   **15/300**  |
 
 ## Introductory Problems
 
@@ -35,7 +35,7 @@ For problems labeled with a 🌊, I have also golfed the problem in C++.
 1. [Increasing Array](/IntroductoryProblems/IncreasingArrayGolf.py) 🐍
 1. [Permutations](/IntroductoryProblems/PermutationsGolf.py) 🐍
 1. [Number Spiral](/IntroductoryProblems/NumberSpiralGolf.py) 🐍
-1. Two Knights
+1. [Two Knights](/IntroductoryProblems/TwoKnightsGolf.py)
 1. Two Sets
 1. Bit Strings
 1. Trailing Zeros
@@ -105,7 +105,7 @@ For problems labeled with a 🌊, I have also golfed the problem in C++.
 1. Two Sets II
 1. Increasing Subsequence
 1. Projects
-1. Elevator Rides
+1. [Elevator Rides](/DynamicProgramming/ElevatorRidesGolf.py) 🐍⭐
 1. Counting Tilings
 1. Counting Numbers
 
