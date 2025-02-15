@@ -36,7 +36,7 @@ For problems labeled with a 🌊, I have also golfed the problem in C++.
 1. [Permutations](/IntroductoryProblems/PermutationsGolf.py) 🐍
 1. [Number Spiral](/IntroductoryProblems/NumberSpiralGolf.py) 🐍
 1. [Two Knights](/IntroductoryProblems/TwoKnightsGolf.py)
-1. Two Sets
+1. [Two Sets](/IntroductoryProblems/TwoSetsGolf.py)
 1. Bit Strings
 1. Trailing Zeros
 1. Coin Piles
