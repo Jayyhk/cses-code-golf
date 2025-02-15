@@ -1,12 +1,13 @@
 n=int(input())
-A=*B,=[0]
-d=n*n+n
+s=n*n+n
+a=[0]
+b=[0]
 while n:
-    C=B
-    if d>=4*n:
-        d-=4*n
-        C=A
-    C+=n,
-    C[0]+=1
+    c=b
+    if s>=4*n:
+        s-=4*n
+        c=a
+    c+=n,
+    c[0]+=1
     n-=1
-print("NO "*d,"YES",*A+B)
+print(*("NO",) if s/2%2 else ("YES",*a+b))

@@ -14,7 +14,7 @@ For problems labeled with a 🌊, I have also golfed the problem in C++.
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| [Introductory Problems](#introductory-problems) |      7/19     |
+| [Introductory Problems](#introductory-problems) |      8/19     |
 | [Sorting and Searching](#sorting-and-searching) |      0/35     |
 | [Dynamic Programming](#dynamic-programming)   |      1/19     |
 | [Graph Algorithms](#graph-algorithms)      |      0/36     |
@@ -25,7 +25,7 @@ For problems labeled with a 🌊, I have also golfed the problem in C++.
 | [Geometry](#geometry)              |      7/7      |
 | [Advanced Techniques](#advanced-techniques)   |      0/24     |
 | [Additional Problems](#additional-problems)   |      0/77     |
-| **Total**             |   **15/300**  |
+| **Total**             |   **16/300**  |
 
 ## Introductory Problems
 
