@@ -6,15 +6,17 @@ For problems labeled with a 🐍, I am #1 on the shortest code leaderboard for P
 
 For problems labeled with a ⭐, I am #1 on the shortest code leaderboard out of ALL programming languages.
 
-For problems labeled with a 💥, I have the only accepted solution in Python 3 or I was the first accepted solution in Python 3.
+For problems labeled with a 💥, I have the first accepted solution in Python 3.
 
 For problems labeled with a 🌊, I have also golfed the problem in C++.
+
+For problems labeled with a 🗿, the number of non-whitespace characters cannot be shortened for Python 3.
 
 ## Table of Contents
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| [Introductory Problems](#introductory-problems) |      8/19     |
+| [Introductory Problems](#introductory-problems) |      11/19     |
 | [Sorting and Searching](#sorting-and-searching) |      0/35     |
 | [Dynamic Programming](#dynamic-programming)   |      1/19     |
 | [Graph Algorithms](#graph-algorithms)      |      0/36     |
@@ -25,7 +27,7 @@ For problems labeled with a 🌊, I have also golfed the problem in C++.
 | [Geometry](#geometry)              |      7/7      |
 | [Advanced Techniques](#advanced-techniques)   |      0/24     |
 | [Additional Problems](#additional-problems)   |      0/77     |
-| **Total**             |   **16/300**  |
+| **Total**             |   **19/300**  |
 
 ## Introductory Problems
 
@@ -35,11 +37,11 @@ For problems labeled with a 🌊, I have also golfed the problem in C++.
 1. [Increasing Array](/IntroductoryProblems/IncreasingArrayGolf.py) 🐍
 1. [Permutations](/IntroductoryProblems/PermutationsGolf.py) 🐍
 1. [Number Spiral](/IntroductoryProblems/NumberSpiralGolf.py) 🐍
-1. [Two Knights](/IntroductoryProblems/TwoKnightsGolf.py)
+1. [Two Knights](/IntroductoryProblems/TwoKnightsGolf.py) 🗿
 1. [Two Sets](/IntroductoryProblems/TwoSetsGolf.py) 🐍
-1. Bit Strings
-1. Trailing Zeros
-1. Coin Piles
+1. [Bit Strings](/IntroductoryProblems/BitStringsGolf.py) 🗿
+1. [Trailing Zeros](/IntroductoryProblems/TrailingZerosGolf.py) 🗿
+1. [Coin Piles](/IntroductoryProblems/CoinPilesGolf.py) 🐍
 1. Palindrome Reorder
 1. Gray Code
 1. Tower of Hanoi
