@@ -1,7 +1,6 @@
 n=int(input())
 s=n*n+n
-a=[0]
-b=[0]
+a=*b,=[0]
 while n:
     c=b
     if s>=4*n:

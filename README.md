@@ -10,8 +10,6 @@ For problems labeled with a 💥, I have the first accepted solution in Python 3
 
 For problems labeled with a 🌊, I have also golfed the problem in C++.
 
-For problems labeled with a 🗿, the number of non-whitespace characters cannot be shortened for Python 3.
-
 ## Table of Contents
 
 | Problem Type          | Number Solved |
@@ -37,10 +35,10 @@ For problems labeled with a 🗿, the number of non-whitespace characters cannot
 1. [Increasing Array](/IntroductoryProblems/IncreasingArrayGolf.py) 🐍
 1. [Permutations](/IntroductoryProblems/PermutationsGolf.py) 🐍
 1. [Number Spiral](/IntroductoryProblems/NumberSpiralGolf.py) 🐍
-1. [Two Knights](/IntroductoryProblems/TwoKnightsGolf.py) 🗿
+1. [Two Knights](/IntroductoryProblems/TwoKnightsGolf.py)
 1. [Two Sets](/IntroductoryProblems/TwoSetsGolf.py) 🐍
-1. [Bit Strings](/IntroductoryProblems/BitStringsGolf.py) 🗿
-1. [Trailing Zeros](/IntroductoryProblems/TrailingZerosGolf.py) 🗿
+1. [Bit Strings](/IntroductoryProblems/BitStringsGolf.py)
+1. [Trailing Zeros](/IntroductoryProblems/TrailingZerosGolf.py)
 1. [Coin Piles](/IntroductoryProblems/CoinPilesGolf.py) 🐍
 1. Palindrome Reorder
 1. Gray Code
