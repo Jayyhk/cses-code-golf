@@ -1,12 +1,5 @@
 n=int(input())
-s=n*n+n
-a=*b,=[0]
-while n:
-    c=b
-    if s>=4*n:
-        s-=4*n
-        c=a
-    c+=n,
-    c[0]+=1
-    n-=1
-print(*("NO",) if s/2%2 else ("YES",*a+b))
+a=n-n//2
+b=n//4+1
+r=range
+print(*["NO"]if n+1&2 else["YES",n-a,*r(1,b),*r(a+b,n+1),a,*r(b,a+b)])
