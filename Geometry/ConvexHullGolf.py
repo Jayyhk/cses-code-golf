@@ -1,14 +1,11 @@
-import sys
-P=print
-I=sys.stdin.buffer.readline
-p=sorted((*map(int, I().split()),) for _ in' '*int(I()))
-V=lambda a, b, c: (b[0]-a[0])*(c[1]-a[1])<(b[1]-a[1])*(c[0]-a[0])
-H=[]
-for q in p+p[-2::-1]:
-    while len(H) > 1 and V(H[-2],H[-1],q):
-        H.pop()
-    H+=q,
-*H,_=H
-P(len(H))
-for a, b in H:
-    P(a,b)
+T=open(0).read().split()[1:]
+s=map(int,T)
+P=sorted(zip(s,s))
+L=[]
+for p in P+P[-2::-1]:
+    x,y=p
+    while(n:=len(L))>1and(x-L[-1][0])*(y-L[-2][1])<(y-L[-1][1])*(x-L[-2][0]):L.pop()
+    L+=p,
+p=print
+p(n)
+for i in L[1:]:p(*i)
