@@ -247,11 +247,11 @@ For problems labeled with a 🌊, I have also golfed the problem in C++.
 
 1. [Point Location Test](/Geometry/PointLocationTestGolf.py) 🐍
 1. [Line Segment Intersection](/Geometry/LineSegmentIntersectionGolf.py) 🐍⭐
-1. [Polygon Area](/Geometry/PolygonAreaGolf.py) 🐍⭐
+1. [Polygon Area](/Geometry/PolygonAreaGolf.py)
 1. [Point in Polygon](/Geometry/PointInPolygonGolf.py) 🐍⭐
 1. [Polygon Lattice Points](/Geometry/PolygonLatticePointsGolf.py) 🐍⭐
 1. [Minimum Euclidean Distance](/Geometry/MinimumEuclideanDistanceGolf.py) 🐍⭐💥🌊
-1. [Convex Hull](/Geometry/ConvexHullGolf.py) 🐍⭐
+1. [Convex Hull](/Geometry/ConvexHullGolf.py)
 
 ## Advanced Techniques
 

@@ -1,4 +1,4 @@
-with open('code.txt', 'r') as file: # put code on code.txt
+with open('code.txt', 'r') as file: # copy your code to code.txt
     content = file.read()
 
 # Count non-whitespace characters
