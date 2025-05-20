@@ -1,5 +1,6 @@
 import sys
 
+
 def cross_product(p0, p1, p2):
     return (p1[0] - p0[0]) * (p2[1] - p0[1]) - (p1[1] - p0[1]) * (p2[0] - p0[0])
 
@@ -26,5 +27,5 @@ for t in range(2):
     s = len(hull)
     p.reverse()
 
-sys.stdout.write(str(len(hull)) + '\n')
-print('\n'.join(' '.join(map(str, point)) for point in hull))
+sys.stdout.write(str(len(hull)) + "\n")
+print("\n".join(" ".join(map(str, point)) for point in hull))
