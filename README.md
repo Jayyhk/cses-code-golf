@@ -4,19 +4,19 @@ Accepted [code golf](https://en.wikipedia.org/wiki/Code_golf) solutions to the [
 
 For the following categories, I disregard users who execute whitespace language.
 
-For problems labeled with a 🐍, I am #1 on the shortest code leaderboard for Python 3.
+- 🐍 - I am #1 on the shortest code leaderboard for Python 3.
 
-For problems labeled with a ⭐, I am #1 on the shortest code leaderboard out of ALL programming languages.
+- ⭐ - I am #1 on the shortest code leaderboard out of ALL programming languages.
 
-For problems labeled with a 💥, I have the first accepted solution in Python 3.
+- 💥 - I have the first accepted solution in Python 3.
 
-For problems labeled with a 🌊, I have also golfed the problem in C++.
+- 🌊 - I have also golfed the problem in C++.
 
 ## Table of Contents
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| [Introductory Problems](#introductory-problems) |      11/19     |
+| [Introductory Problems](#introductory-problems) |      12/19     |
 | [Sorting and Searching](#sorting-and-searching) |      0/35     |
 | [Dynamic Programming](#dynamic-programming)   |      1/19     |
 | [Graph Algorithms](#graph-algorithms)      |      0/36     |
@@ -27,7 +27,7 @@ For problems labeled with a 🌊, I have also golfed the problem in C++.
 | [Geometry](#geometry)              |      7/7      |
 | [Advanced Techniques](#advanced-techniques)   |      0/24     |
 | [Additional Problems](#additional-problems)   |      0/77     |
-| **Total**             |   **19/300**  |
+| **Total**             |   **20/300**  |
 
 ## Introductory Problems
 
@@ -42,7 +42,7 @@ For problems labeled with a 🌊, I have also golfed the problem in C++.
 1. [Bit Strings](/IntroductoryProblems/BitStringsGolf.py)
 1. [Trailing Zeros](/IntroductoryProblems/TrailingZerosGolf.py)
 1. [Coin Piles](/IntroductoryProblems/CoinPilesGolf.py) 🐍
-1. Palindrome Reorder
+1. [Palindrome Reorder](/IntroductoryProblems/PalindromeReorderGolf.py) 🐍⭐
 1. Gray Code
 1. Tower of Hanoi
 1. Creating Strings
