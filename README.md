@@ -16,7 +16,7 @@ For the following categories, I disregard users who execute whitespace language.
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| [Introductory Problems](#introductory-problems) |      12/19     |
+| [Introductory Problems](#introductory-problems) |      15/19     |
 | [Sorting and Searching](#sorting-and-searching) |      0/35     |
 | [Dynamic Programming](#dynamic-programming)   |      1/19     |
 | [Graph Algorithms](#graph-algorithms)      |      0/36     |
@@ -27,7 +27,7 @@ For the following categories, I disregard users who execute whitespace language.
 | [Geometry](#geometry)              |      7/7      |
 | [Advanced Techniques](#advanced-techniques)   |      0/24     |
 | [Additional Problems](#additional-problems)   |      0/77     |
-| **Total**             |   **20/300**  |
+| **Total**             |   **23/300**  |
 
 ## Introductory Problems
 
@@ -43,9 +43,9 @@ For the following categories, I disregard users who execute whitespace language.
 1. [Trailing Zeros](/IntroductoryProblems/TrailingZerosGolf.py)
 1. [Coin Piles](/IntroductoryProblems/CoinPilesGolf.py) 🐍
 1. [Palindrome Reorder](/IntroductoryProblems/PalindromeReorderGolf.py) 🐍⭐
-1. Gray Code
-1. Tower of Hanoi
-1. Creating Strings
+1. [Gray Code](/IntroductoryProblems/GrayCodeGolf.py)
+1. [Tower of Hanoi](/IntroductoryProblems/TowerOfHanoiGolf.py)
+1. [Creating Strings](/IntroductoryProblems/CreatingStringGolf.py)
 1. Apple Division
 1. Chessboard and Queens
 1. Digit Queries
