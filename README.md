@@ -1,6 +1,6 @@
 # CSES Code Golf Solutions
 
-Accepted [code golf](https://en.wikipedia.org/wiki/Code_golf) solutions to the [CSES Problem Set](https://cses.fi/problemset/) written in Python 3. Code golf solutions have file names ending in `Golf` while my standard solutions do not. After solving a CSES problem, you can click `QUEUE` and concatenate `?lang=9&status=2&user=&by=2&order=0` to the URL to show the Python 3 shortest code leaderboard.
+Accepted [code golf](https://en.wikipedia.org/wiki/Code_golf) solutions to the [CSES Problem Set](https://cses.fi/problemset/) written in Python 3. Code golf solutions have file names ending in `Golf` while my standard solutions do not. After solving a CSES problem, you can click `QUEUE` and concatenate `?lang=8&status=2&user=&by=2&order=0` to the URL to show the Python 3 shortest code leaderboard.
 
 For the following categories, I disregard users who execute whitespace language.
 
@@ -247,7 +247,7 @@ For the following categories, I disregard users who execute whitespace language.
 
 ## Geometry
 
-1. [Point Location Test](/Geometry/PointLocationTestGolf.py) 🐍
+1. [Point Location Test](/Geometry/PointLocationTestGolf.py)
 1. [Line Segment Intersection](/Geometry/LineSegmentIntersectionGolf.py) 🐍⭐
 1. [Polygon Area](/Geometry/PolygonAreaGolf.py)
 1. [Point in Polygon](/Geometry/PointInPolygonGolf.py) 🐍⭐
