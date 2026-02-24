@@ -281,7 +281,7 @@ For the following categories, I disregard users who execute whitespace language.
 
 1. [Point Location Test](/Geometry/PointLocationTestGolf.py) 🐍
 1. [Line Segment Intersection](/Geometry/LineSegmentIntersectionGolf.py) 🐍⭐
-1. [Polygon Area](/Geometry/PolygonAreaGolf.py)
+1. [Polygon Area](/Geometry/PolygonAreaGolf.py) 🐍⭐
 1. [Point in Polygon](/Geometry/PointInPolygonGolf.py) 🐍⭐
 1. [Polygon Lattice Points](/Geometry/PolygonLatticePointsGolf.py) 🐍⭐
 1. [Minimum Euclidean Distance](/Geometry/MinimumEuclideanDistanceGolf.py) 🐍⭐💥🌊
