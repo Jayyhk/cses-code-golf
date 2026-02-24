@@ -489,4 +489,3 @@ For the following categories, I disregard users who execute whitespace language.
 1. Stick Difference
 1. Coding Company
 1. Two Stacks Sorting
-

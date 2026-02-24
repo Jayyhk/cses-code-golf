@@ -1,7 +1,10 @@
-T=lambda a,b,c,d,e,f:(a*d-b*c)*(a*f-b*e)>0
+_,*l=open(0)
+m=min
 M=max
-N=min
-I=input
-for _ in' '*int(I()):
-    a,b,c,d,e,f,g,h=map(int,I().split())
-    print('NO' if M(a,c)<N(e,g) or M(e,g)<N(a,c) or M(b,d)<N(f,h) or M(f,h)<N(b,d) or T(c-a,d-b,e-a,f-b,g-a,h-b) | T(g-e,h-f,a-e,b-f,c-e,d-f) else 'YES')
+for s in l:
+ a,b,c,d,e,f,g,h=map(int,s.split())
+ A=c-a
+ B=d-b
+ C=g-e
+ D=h-f
+ print('NO'*(M(a,c)<m(e,g)or M(e,g)<m(a,c)or M(b,d)<m(f,h)or M(f,h)<m(b,d)or(A*(f-b)-B*(e-a))*(A*(h-b)-B*(g-a))>0 or(C*(b-f)-D*(a-e))*(C*(d-f)-D*(c-e))>0)or'YES')
