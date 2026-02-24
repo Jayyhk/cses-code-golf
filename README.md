@@ -16,18 +16,25 @@ For the following categories, I disregard users who execute whitespace language.
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| [Introductory Problems](#introductory-problems) |      16/19     |
+| [Introductory Problems](#introductory-problems) |      16/24     |
 | [Sorting and Searching](#sorting-and-searching) |      0/35     |
-| [Dynamic Programming](#dynamic-programming)   |      1/19     |
-| [Graph Algorithms](#graph-algorithms)      |      0/36     |
-| [Range Queries](#range-queries)         |      0/19     |
-| [Tree Algorithms](#tree-algorithms)       |      0/16     |
-| [Mathematics](#mathematics)           |      0/31     |
-| [String Algorithms](#string-algorithms)     |      0/17     |
-| [Geometry](#geometry)              |      7/7      |
-| [Advanced Techniques](#advanced-techniques)   |      0/24     |
-| [Additional Problems](#additional-problems)   |      0/77     |
-| **Total**             |   **24/300**  |
+| [Dynamic Programming](#dynamic-programming) |      1/23     |
+| [Graph Algorithms](#graph-algorithms) |      0/36     |
+| [Range Queries](#range-queries) |      0/25     |
+| [Tree Algorithms](#tree-algorithms) |      0/16     |
+| [Mathematics](#mathematics) |      0/37     |
+| [String Algorithms](#string-algorithms) |      0/21     |
+| [Geometry](#geometry) |      7/16     |
+| [Advanced Techniques](#advanced-techniques) |      0/25     |
+| [Sliding Window Problems](#sliding-window-problems) |      0/11     |
+| [Interactive Problems](#interactive-problems) |      0/6     |
+| [Bitwise Operations](#bitwise-operations) |      0/11     |
+| [Construction Problems](#construction-problems) |      0/8     |
+| [Advanced Graph Problems](#advanced-graph-problems) |      0/28     |
+| [Counting Problems](#counting-problems) |      0/18     |
+| [Additional Problems I](#additional-problems-i) |      0/30     |
+| [Additional Problems II](#additional-problems-ii) |      0/30     |
+| **Total**             |   **24/400**  |
 
 ## Introductory Problems
 
@@ -48,8 +55,13 @@ For the following categories, I disregard users who execute whitespace language.
 1. [Creating Strings](/IntroductoryProblems/CreatingStringGolf.py)
 1. [Apple Division](/IntroductoryProblems/AppleDivisionGolf.py) 🐍
 1. Chessboard and Queens
+1. Raab Game I
+1. Mex Grid Construction
+1. Knight Moves Grid
+1. Grid Coloring I
 1. Digit Queries
-1. Grid Paths
+1. String Reorder
+1. Grid Path Description
 
 ## Sorting and Searching
 
@@ -68,6 +80,8 @@ For the following categories, I disregard users who execute whitespace language.
 1. Playlist
 1. Towers
 1. Traffic Lights
+1. Distinct Values Subarrays
+1. Distinct Values Subsequences
 1. Josephus Problem I
 1. Josephus Problem II
 1. Nested Ranges Check
@@ -82,10 +96,8 @@ For the following categories, I disregard users who execute whitespace language.
 1. Subarray Sums I
 1. Subarray Sums II
 1. Subarray Divisibility
-1. Subarray Distinct Values
+1. Distinct Values Subarrays II
 1. Array Division
-1. Sliding Median
-1. Sliding Cost
 1. Movie Festival II
 1. Maximum Subarray Sum II
 
@@ -96,20 +108,24 @@ For the following categories, I disregard users who execute whitespace language.
 1. Coin Combinations I
 1. Coin Combinations II
 1. Removing Digits
-1. Grid Paths
+1. Grid Paths I
 1. Book Shop
 1. Array Description
 1. Counting Towers
 1. Edit Distance
+1. Longest Common Subsequence
 1. Rectangle Cutting
+1. Minimal Grid Path
 1. Money Sums
 1. Removal Game
 1. Two Sets II
+1. Mountain Range
 1. Increasing Subsequence
 1. Projects
 1. [Elevator Rides](/DynamicProgramming/ElevatorRidesGolf.py) 🐍⭐
 1. Counting Tilings
 1. Counting Numbers
+1. Increasing Subsequence II
 
 ## Graph Algorithms
 
@@ -164,13 +180,19 @@ For the following categories, I disregard users who execute whitespace language.
 1. Salary Queries
 1. Prefix Sum Queries
 1. Pizzeria Queries
+1. Visible Buildings Queries
+1. Range Interval Queries
 1. Subarray Sum Queries
+1. Subarray Sum Queries II
 1. Distinct Values Queries
+1. Distinct Values Queries II
 1. Increasing Array Queries
+1. Movie Festival Queries
 1. Forest Queries II
 1. Range Updates and Sums
 1. Polynomial Queries
 1. Range Queries and Copies
+1. Missing Coin Sum Queries
 
 ## Tree Algorithms
 
@@ -184,7 +206,7 @@ For the following categories, I disregard users who execute whitespace language.
 1. Distance Queries
 1. Counting Paths
 1. Subtree Queries
-1. Path Queries I
+1. Path Queries
 1. Path Queries II
 1. Distinct Colors
 1. Finding a Centroid
@@ -202,10 +224,13 @@ For the following categories, I disregard users who execute whitespace language.
 1. Divisor Analysis
 1. Prime Multiples
 1. Counting Coprime Pairs
+1. Next Prime
 1. Binomial Coefficients
 1. Creating Strings II
 1. Distributing Apples
 1. Christmas Party
+1. Permutation Order
+1. Permutation Rounds
 1. Bracket Sequences I
 1. Bracket Sequences II
 1. Counting Necklaces
@@ -214,6 +239,9 @@ For the following categories, I disregard users who execute whitespace language.
 1. Throwing Dice
 1. Graph Paths I
 1. Graph Paths II
+1. System of Linear Equations
+1. Sum of Four Squares
+1. Triangle Number Sums
 1. Dice Probability
 1. Moving Robots
 1. Candy Lottery
@@ -233,33 +261,47 @@ For the following categories, I disregard users who execute whitespace language.
 1. Finding Periods
 1. Minimal Rotation
 1. Longest Palindrome
+1. All Palindromes
 1. Required Substring
 1. Palindrome Queries
 1. Finding Patterns
 1. Counting Patterns
 1. Pattern Positions
 1. Distinct Substrings
+1. Distinct Subsequences
 1. Repeating Substring
 1. String Functions
+1. Inverse Suffix Array
+1. String Transform
 1. Substring Order I
 1. Substring Order II
 1. Substring Distribution
 
 ## Geometry
 
-1. [Point Location Test](/Geometry/PointLocationTestGolf.py)
+1. [Point Location Test](/Geometry/PointLocationTestGolf.py) 🐍
 1. [Line Segment Intersection](/Geometry/LineSegmentIntersectionGolf.py) 🐍⭐
 1. [Polygon Area](/Geometry/PolygonAreaGolf.py)
 1. [Point in Polygon](/Geometry/PointInPolygonGolf.py) 🐍⭐
 1. [Polygon Lattice Points](/Geometry/PolygonLatticePointsGolf.py) 🐍⭐
 1. [Minimum Euclidean Distance](/Geometry/MinimumEuclideanDistanceGolf.py) 🐍⭐💥🌊
 1. [Convex Hull](/Geometry/ConvexHullGolf.py) 🐍⭐
+1. Maximum Manhattan Distances
+1. All Manhattan Distances
+1. Intersection Points
+1. Line Segments Trace I
+1. Line Segments Trace II
+1. Lines and Queries I
+1. Lines and Queries II
+1. Area of Rectangles
+1. Robot Path
 
 ## Advanced Techniques
 
 1. Meet in the Middle
 1. Hamming Distance
-1. Beautiful Subgrids
+1. Corner Subgrid Check
+1. Corner Subgrid Count
 1. Reachable Nodes
 1. Reachability Queries
 1. Cut and Paste
@@ -282,82 +324,169 @@ For the following categories, I disregard users who execute whitespace language.
 1. Task Assignment
 1. Distinct Routes II
 
-## Additional Problems
+## Sliding Window Problems
 
-1. Shortest Subsequence
+1. Sliding Window Sum
+1. Sliding Window Minimum
+1. Sliding Window Xor
+1. Sliding Window Or
+1. Sliding Window Distinct Values
+1. Sliding Window Mode
+1. Sliding Window Mex
+1. Sliding Window Median
+1. Sliding Window Cost
+1. Sliding Window Inversions
+1. Sliding Window Advertisement
+
+## Interactive Problems
+
+1. Hidden Integer
+1. Hidden Permutation
+1. K-th Highest Score
+1. Permuted Binary Strings
+1. Colored Chairs
+1. Inversion Sorting
+
+## Bitwise Operations
+
 1. Counting Bits
-1. Swap Game
+1. Maximum Xor Subarray
+1. Maximum Xor Subset
+1. Number of Subset Xors
+1. K Subset Xors
+1. All Subarray Xors
+1. Xor Pyramid Peak
+1. Xor Pyramid Diagonal
+1. Xor Pyramid Row
+1. SOS Bit Problem
+1. And Subset Count
+
+## Construction Problems
+
+1. Inverse Inversions
+1. Monotone Subsequences
+1. Third Permutation
+1. Permutation Prime Sums
+1. Chess Tournament
+1. Distinct Sums Grid
+1. Filling Trominos
+1. Grid Path Construction
+
+## Advanced Graph Problems
+
+1. Nearest Shops
 1. Prüfer Code
+1. Tree Traversals
+1. Course Schedule II
 1. Acyclic Graph Edges
 1. Strongly Connected Edges
 1. Even Outdegree Edges
+1. Graph Girth
+1. Fixed Length Walk Queries
+1. Transfer Speeds Sum
+1. MST Edge Check
+1. MST Edge Set Check
+1. MST Edge Cost
+1. Network Breakdown
+1. Tree Coin Collecting I
+1. Tree Coin Collecting II
+1. Tree Isomorphism I
+1. Tree Isomorphism II
+1. Flight Route Requests
+1. Critical Cities
+1. Visiting Cities
+1. Graph Coloring
+1. Bus Companies
+1. Split into Two Paths
+1. Network Renovation
+1. Forbidden Cities
+1. Creating Offices
+1. New Flight Routes
+
+## Counting Problems
+
+1. Filled Subgrid Count I
+1. Filled Subgrid Count II
+1. All Letter Subgrid Count I
+1. All Letter Subgrid Count II
+1. Border Subgrid Count I
+1. Border Subgrid Count II
+1. Raab Game II
+1. Empty String
+1. Permutation Inversions
+1. Counting Bishops
+1. Counting Sequences
+1. Grid Paths II
+1. Counting Permutations
+1. Grid Completion
+1. Counting Reorders
+1. Tournament Graph Distribution
+1. Collecting Numbers Distribution
+1. Functional Graph Distribution
+
+## Additional Problems I
+
+1. Shortest Subsequence
+1. Distinct Values Sum
+1. Distinct Values Splits
+1. Swap Game
+1. Beautiful Permutation II
 1. Multiplication Table
+1. Bubble Sort Rounds I
+1. Bubble Sort Rounds II
+1. Nearest Campsites I
+1. Nearest Campsites II
 1. Advertisement
 1. Special Substrings
-1. Permutation Inversions
-1. Maximum Xor Subarray
-1. Movie Festival Queries
-1. Chess Tournament
-1. Tree Traversals
-1. Network Renovation
-1. Graph Girth
-1. Intersection Points
-1. Inverse Inversions
-1. Monotone Subsequences
-1. String Reorder
+1. Counting LCM Arrays
+1. Square Subsets
+1. Subarray Sum Constraints
+1. Water Containers Moves
+1. Water Containers Queries
 1. Stack Weights
+1. Maximum Average Subarrays
+1. Subsets with Fixed Average
+1. Two Array Average
 1. Pyramid Array
-1. Increasing Subsequence II
-1. String Removals
+1. Permutation Subsequence
 1. Bit Inversions
-1. Xor Pyramid
 1. Writing Numbers
-1. String Transform
 1. Letter Pair Move Game
 1. Maximum Building I
 1. Sorting Methods
 1. Cyclic Array
 1. List of Sums
+
+## Additional Problems II
+
+1. Bouncing Ball Steps
+1. Bouncing Ball Cycle
+1. Knight Moves Queries
+1. K Subset Sums I
+1. K Subset Sums II
 1. Increasing Array II
 1. Food Division
-1. Bit Problem
 1. Swap Round Sorting
 1. Binary Subsequences
-1. Tree Isomorphism I
-1. Counting Sequences
-1. Critical Cities
 1. School Excursion
 1. Coin Grid
-1. Robot Path
+1. Grid Coloring II
 1. Programmers and Artists
-1. Course Schedule II
 1. Removing Digits II
 1. Coin Arrangement
-1. Counting Bishops
+1. Replace with Difference
 1. Grid Puzzle I
 1. Grid Puzzle II
-1. Empty String
-1. Grid Paths
 1. Bit Substrings
 1. Reversal Sorting
-1. Counting Reorders
 1. Book Shop II
-1. Network Breakdown
-1. Visiting Cities
-1. Missing Coin Sum Queries
-1. Number Grid
+1. GCD Subsets
+1. Minimum Cost Pairs
+1. Same Sum Subsets
+1. Mex Grid Queries
 1. Maximum Building II
-1. Filling Trominos
 1. Stick Divisions
+1. Stick Difference
 1. Coding Company
-1. Flight Route Requests
 1. Two Stacks Sorting
-1. Tree Isomorphism II
-1. Forbidden Cities
-1. Area of Rectangles
-1. Grid Completion
-1. Creating Offices
-1. Permutations II
-1. Functional Graph Distribution
-1. New Flight Routes
-1. Grid Path Construction
+
